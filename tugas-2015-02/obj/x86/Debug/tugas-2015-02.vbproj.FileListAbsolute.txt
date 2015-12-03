@@ -1,0 +1,8 @@
+C:\Users\toshiba\Documents\GitHub\tugas-2015-02-ridhoaffan96\tugas-2015-02\bin\Debug\tugas-2015-02.exe
+C:\Users\toshiba\Documents\GitHub\tugas-2015-02-ridhoaffan96\tugas-2015-02\bin\Debug\tugas-2015-02.pdb
+C:\Users\toshiba\Documents\GitHub\tugas-2015-02-ridhoaffan96\tugas-2015-02\bin\Debug\tugas-2015-02.xml
+C:\Users\toshiba\Documents\GitHub\tugas-2015-02-ridhoaffan96\tugas-2015-02\obj\x86\Debug\Kalkulator.Resources.resources
+C:\Users\toshiba\Documents\GitHub\tugas-2015-02-ridhoaffan96\tugas-2015-02\obj\x86\Debug\tugas-2015-02.vbproj.GenerateResource.Cache
+C:\Users\toshiba\Documents\GitHub\tugas-2015-02-ridhoaffan96\tugas-2015-02\obj\x86\Debug\tugas-2015-02.exe
+C:\Users\toshiba\Documents\GitHub\tugas-2015-02-ridhoaffan96\tugas-2015-02\obj\x86\Debug\tugas-2015-02.xml
+C:\Users\toshiba\Documents\GitHub\tugas-2015-02-ridhoaffan96\tugas-2015-02\obj\x86\Debug\tugas-2015-02.pdb
